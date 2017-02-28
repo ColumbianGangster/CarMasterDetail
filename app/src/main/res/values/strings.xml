@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MasterDetail</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="date_posted">Date Posted</string>
+    <string name="call">CALL</string>
+    <string name="sms">SMS</string>
+    <string name="message">MESSAGE</string>
+    <string name="favourite">Favourite</string>
+    <string name="share">Share</string>
+    <string name="error_item_detail_fragment_should_have_item">ItemDetailFragment should have an Item</string>
+    <string name="placeholder_call_button_pressed">call pressed</string>
+    <string name="placeholder_sms_button_pressed">sms pressed</string>
+    <string name="placeholder_message_button_pressed">message pressed</string>
+    <string name="error_network_failure">Network call failed, for whatever reason</string>
+</resources>
