@@ -74,10 +74,7 @@ public class CarListActivity extends BaseActivity implements CarListScreen.View{
 
     public Cars createMock2() {
         ArrayList<Car> list = new ArrayList<>();
-
-
-
-
+        
         list.add(createItem("Koenigsegg CCXR Trevita", "Texas", "http://icdn2.digitaltrends.com/image/4-8-million-koenigsegg-ccxr-trevita-970x647-c.jpg", "$115482","2016-04-10", "366 Dank Court, Sexton, Texas, 1391" ));
         list.add(createItem("Lamborghini Veneno", "Washington", "http://icdn3.digitaltrends.com/image/4-5-million-lamborghini-veneno-970x647-c.jpg", "$259156", "2014-06-13","207 Brighton Court, Sanborn, Washington, 107" ));
         list.add(createItem("W Motors Lykan Hypersport", "Nevada", "http://icdn4.digitaltrends.com/image/3-4-million-w-motors-lykan-hypersport-970x647-c.jpg", "$347591", "2014-05-29", "445 Reed Street, Fairlee, Nevada, 5435"));
